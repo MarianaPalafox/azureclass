@@ -6,7 +6,9 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #fff;
+  background: linear-gradient(to top right, #ffffff 0%, #8ac2ff 100%);
+  color: gray;
+  height: 100vh;
 }
 
 main {
@@ -18,4 +20,8 @@ main {
 main > h1 {
   text-align: center;
   font-size: 3.5em;
+}
+
+a {
+
 }

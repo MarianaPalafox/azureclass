@@ -1,2 +1,2 @@
-## Link a Static Page en Azure
+## Link Static Page
 https://orange-smoke-07fbfd210.azurestaticapps.net/
